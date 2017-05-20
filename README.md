@@ -1,2 +1,2 @@
 # OwinSelfHostSample
-For learning.
+I created this project just for practicing. All the code come from CSDN.
